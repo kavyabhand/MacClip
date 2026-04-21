@@ -1,0 +1,25 @@
+# Xcode
+DerivedData/
+build/
+
+# User data
+*.xcuserstate
+xcuserdata/
+*.xcworkspace
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.build/
+Packages/
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*.lock
+
+# App files
+*.app
